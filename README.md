@@ -1,10 +1,10 @@
-# LeetCode by Swift
-[LeetCode Online Judge](https://leetcode.com/) is a website containing many **algorithm questions**. Most of them are real interview questions of **Google, Facebook, LinkedIn, Apple**, etc. This repo shows my solutions by Swift with the code style strictly follows the [RayWenderlich Swift Style Guide](https://github.com/raywenderlich/swift-style-guide). Please feel free to reference and **STAR** to support this repo, thank you!
-
 ![Leetcode](./logo.png?style=centerme)
 
-## Progress
-[Problem Status](#problem-status) shows the latest progress to all 1000+ questions. Currently we have 323 completed solutions. Note: questions with &hearts; mark means that you have to **Subscript to premium membership** of LeetCode to unlock them.
+[LeetCode](https://leetcode.com/) is the world's leading online programming learning platform. Level up coding skills and quickly land a job. The best place to expand knowledge and get prepared for your next interview. This repo shows my solutions by Swift with the code style strictly follows the [RayWenderlich Swift Style Guide](https://github.com/raywenderlich/swift-style-guide). Please feel free to reference and **STAR** to support this repo, thank you!
+
+## About
+* Questions with &hearts; mark means that you have to **Subscript to premium membership** of LeetCode to unlock them.
+* Repository is originally hosted by [Soap](https://github.com/soapyigu/LeetCode-Swift). Because of the stopping of update, I import repository and go on.
 
 ## Contributors
 
